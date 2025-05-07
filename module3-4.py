@@ -27,9 +27,9 @@ def play():
 
 
 while True:
-    print("------------------------------")
-    print("          To-Do List")
-    print("------------------------------")
+    print("---------------------------------")
+    print("          Guessing Game")
+    print("---------------------------------")
     print ("a. Play Number Guessing Game\nb. Exit\n")
     i = input("Enter choice: ").lower()
     if i == "a":
